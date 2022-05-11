@@ -38,7 +38,7 @@ jobs: # jobs are made of steps
       run: chmod +x codecov
 
     - name: Run code coverage
-      run: ./codecov -t d36c03b4-feb8-4519-86b9-962f4f8177b9
+      run: ./codecov -t 674591db-5131-4933-838a-25ef69d73a71
     
       # Environment variables
       env:
